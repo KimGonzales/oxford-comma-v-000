@@ -6,6 +6,6 @@ def oxford_comma(array)
     beginning_of_array=array.join(", ")
     beginning_of_array <<", and #{last_word}"
   else
-
+    array.join
   end
 end

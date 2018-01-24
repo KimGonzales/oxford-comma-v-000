@@ -6,4 +6,5 @@ def oxford_comma(array)
     array_without_last = array.pop
       beginning_array= array.join(", ")
       beggining_array << array_without_last
+    end
 end

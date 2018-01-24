@@ -1,6 +1,5 @@
+require 'pry'
+
 def oxford_comma(array)
-  array.join(",")
+  array_to-string = array.join(",")
 end
-
-
-oxford_comma(["kiwi", "durian", "starfruit"])
